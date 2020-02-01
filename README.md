@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projects 
 
 Materials and outlines for the Final Project for COGS108.
@@ -81,3 +82,6 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 - [ ] Check to make sure all text and images are visible
 - [ ] Names and IDs included
 - [ ] Renamed file `FinalProject_group000.ipynb`, where '000' is replaced by your group's group number
+=======
+# COGS108_Repo
+>>>>>>> 16c575d6661b26a691855347f9eac609af5465cb
